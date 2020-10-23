@@ -24,3 +24,8 @@ res.json(`$kardes`);
 //KENDINIZE GORE APILER YAPA BILIRSINIZ
 });
 
+app.listen(300);
+console.log("kardespro.cf Sunucu Başlatıldı");
+//============Kardespro===============//
+//============Kardespro===============//
+//============Kardespro===============//
