@@ -1,0 +1,29 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "api-website",
+  "version": "0.0.1",
+  "description": "Node.Js Site.",
+  "main": "kardespro.js",
+  "scripts": {
+    "start": "node kardespro.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ejs: "^3.12.1",
+    "ejs-loader": "^1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/kardespro/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "kardespro",
+    "express"
+  ]
+}
